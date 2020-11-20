@@ -1,0 +1,52 @@
+.content {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.container {
+  width: 75vw;
+  background-color: #ffffff;
+  margin-top: 50px;
+}
+
+.textinput {
+  border-radius: 10px;
+  border: 2px solid #000000;
+  font-size: 15px;
+  padding-left: 7px;
+}
+
+.button {
+  border-radius: 10px;
+  border: 2px solid #000000;
+  background: #511849;
+  color: #FFFFFF;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+@media screen and (max-width: 720px)
+{
+  h1 {
+    font-size: 2em;
+  }
+}
+
+body {
+  font-family: "Arial", "Helvetica", sans-serif;
+  background-color: #57c785;
+}
+
+p {
+  
+}
+
+#myChart {
+  
+}
